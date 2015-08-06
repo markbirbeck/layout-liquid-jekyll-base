@@ -1,0 +1,16 @@
+{
+  "name": "layout-liquid-jekyll-basic",
+  "version": "0.1.0",
+  "description": "The basic Jekyll layout files for Liquid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet but returning success for deploy\" && exit 0"
+  },
+  "keywords": [
+    "layout",
+    "liquid",
+    "jekyll"
+  ],
+  "author": "Mark Birbeck <mark.birbeck@gmail.com> (http://markbirbeck.com/)",
+  "license": "MIT"
+}
